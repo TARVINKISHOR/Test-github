@@ -19,8 +19,7 @@ public class Test {
         System.ot.println("Welcome to the world!");
         System.ot.println("RAH");
         System.out.println("Hello!");
-        jdasjfsdifgasldj;
-        
+        Sout;
     }
     
 }
